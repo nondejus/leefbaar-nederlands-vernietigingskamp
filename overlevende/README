@@ -12,6 +12,8 @@ diacethylmorphine C21H23NO5 : 600 mg per day, de witte heroine variant met een l
 condition TIA (late '90's <): transient ischemic attacks; muscle cramps in face, arms, legs
 
 !zorgmanager nel quote      : 'de groep spuiters moest als eerste zo snel mogelijk geruimd worden en de rokers daarna '
+!initial.client.pilot.batch : 80 dead patients
+!second.client.batch        : i was one of them
 
 
 exit 22 dec 2009            : (after failed diacethylmorphine treatment)
@@ -29,7 +31,6 @@ medication 1                : diclofenac apotheek delfshaven; zilveren kruis ver
 medication 2                : methadone, Roche brand first few years, the last year a cheaper brand; apotheek delfshaven; dec 2009 - begin 2014 zilveren kruis verzekering, repeat prescription methadone 150mg per day, few years build-off structure to zero (incl. een klagende huisarts over de absurd hoge dosering van de ggd)
                             : my final apotheek delfshaven vaarwel 2013/2014, because the methadone didn't work anymore
 
-!initial.client.pilot.batch : 80 dead patients
-!second.client.batch        : i was one of them
+
 !sidenote                   : mijn persoonlijke alternstief; gifsla, zelfs keizer augustus genas door het gebruik van gifsla; cheers!
 !M.N. Medische Noodzaak TIA : (hasjies is geen geneesmiddel) hasjies verwijd de boedvaten en bevrijd de spieren van kramp bij een tia aanval; visolie met knoflook smeert de bloeddoorstroming, werkt bloeddruk verlagend
